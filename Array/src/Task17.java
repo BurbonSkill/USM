@@ -2,13 +2,10 @@ import java.util.Scanner;
 
 public class Task17
     {
-        // main method
+
         public static void main(String[] args)
         {
-            // Scanner to obtain integers
             Scanner input=new Scanner(System.in);
-
-
             // Variables
             int num1;	// first number
             int num2;	// second number
